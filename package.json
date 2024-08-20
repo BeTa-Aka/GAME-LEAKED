@@ -1,0 +1,14 @@
+{
+  "name": "o",
+  "version": "1.0.0",
+  "description": "deadforeest is  a opneword game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
